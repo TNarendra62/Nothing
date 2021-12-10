@@ -1,0 +1,20 @@
+h1{
+           text-align:center;
+           margin-top: 22%;
+           font-size: 50px;
+           color:white;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+       text-align: center;
+       margin-top:20% ;
+}
+
+p:hover{
+          color:whitesmoke;
+}
+
